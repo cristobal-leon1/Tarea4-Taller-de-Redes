@@ -73,7 +73,7 @@ El proyecto esta finalizado, por lo que no se seguira trabajando en el.
 
 
 ## Video de la modificación e inyección de trafico, mediante las herramientas Polymorph y Scapy
-[![Watch the video](images/play2.png)](https://www.youtube.com/watch?v=p-FECoBrzTo)
+[![Watch the video](https://www.youtube.com/watch?v=p-FECoBrzTo)
 
 
 
