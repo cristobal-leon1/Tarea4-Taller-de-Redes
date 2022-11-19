@@ -24,6 +24,7 @@
 - Docker - version 19.03.8
 - PostgreSQL - version 15.0
 - Cliente Postgres - version 12.2
+- Scapy - version 2.5.0
 
 
 
@@ -74,3 +75,4 @@ El proyecto esta finalizado, por lo que no se seguira trabajando en el.
 ## Contacto
 cristobal.leon1@mail.udp.cl
 jairo.morales@mail.udp.cl 
+
